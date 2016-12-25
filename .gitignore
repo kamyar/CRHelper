@@ -1,0 +1,10 @@
+
+
+
+*.pyc
+
+react/node_modules/
+static/css
+static/js
+
+.DS_Store

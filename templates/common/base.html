@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+
+<head>
+    {% include 'common/head.html' %}
+    <link href="/static/css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    {% include 'common/header.html' %}
+    <div class="content">
+        {% block content %}{% endblock content %}
+        {% include 'common/footer.html' %}
+    </div>
+</body>
+
+</html>

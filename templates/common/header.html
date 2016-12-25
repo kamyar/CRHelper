@@ -1,0 +1,16 @@
+<ol class="breadcrumb">
+    <li>
+        <a href="/"><i class="fa fa-home"></i></a>
+    </li>
+    {% for item in context.breadcrumbs %}
+        {% if not loop.last %}
+            <li>
+                <a href="{{item.link }}">{{item.name}}</a>
+            </li>
+        {% else %}
+            <li class="active">
+                {{item.name}}
+            </li>
+        {%endif %}
+    {% endfor %}
+</ol>

@@ -1,0 +1,266 @@
+[
+    {
+        "cost": 3,
+        "name": "archers"
+    },
+    {   
+        "cost": 3,
+        "name": "arrows"
+    },
+    {   
+        "cost": 5,
+        "name": "barbarians"
+    },
+    {   
+        "cost": 3,
+        "name": "bomber"
+    },
+    {   
+        "cost": 3,
+        "name": "cannon"
+    },
+    {   
+        "cost": 3,
+        "name": "clone"
+    },
+    {   
+        "cost": 4,
+        "name": "electro wizard"
+    },
+    {   
+        "cost": 6,
+        "name": "elite barbarians"
+    },
+    {   
+        "cost": 2,
+        "name": "fire spirits"
+    },
+    {   
+        "cost": 2,
+        "name": "goblins"
+    },
+    {   
+        "cost": 1,
+        "name": "ice spirit"
+    },
+    {   
+        "cost": 3,
+        "name": "knight"
+    },
+    {   
+        "cost": 5,
+        "name": "minion horde"
+    },
+    {   
+        "cost": 3,
+        "name": "minions"
+    },
+    {   
+        "cost": 4,
+        "name": "mortar"
+    },
+    {   
+        "cost": 6,
+        "name": "royal giant"
+    },
+    {   
+        "cost": 1,
+        "name": "skeletons"
+    },
+    {   
+        "cost": 2,
+        "name": "spear goblins"
+    },
+    {   
+        "cost": 4,
+        "name": "tesla"
+    },
+    {   
+        "cost": 2,
+        "name": "zap"
+    },
+    {   
+        "cost": 7,
+        "name": "barbarian hut"
+    },
+    {   
+        "cost": 5,
+        "name": "bomb tower"
+    },
+    {   
+        "cost": 6,
+        "name": "elixir collector"
+    },
+    {   
+        "cost": 4,
+        "name": "fireball"
+    },
+    {   
+        "cost": 4,
+        "name": "furnace"
+    },
+    {   
+        "cost": 5,
+        "name": "giant"
+    },
+    {   
+        "cost": 5,
+        "name": "goblin hut"
+    },
+    {   
+        "cost": 4,
+        "name": "hog rider"
+    },
+    {   
+        "cost": 2,
+        "name": "ice golem"
+    },
+    {   
+        "cost": 5,
+        "name": "inferno tower"
+    },
+    {   
+        "cost": 3,
+        "name": "mega minion"
+    },
+    {   
+        "cost": 4,
+        "name": "mini p.e.k.k.a."
+    },
+    {   
+        "cost": 4,
+        "name": "musketeer"
+    },
+    {   
+        "cost": 6,
+        "name": "rocket"
+    },
+    {   
+        "cost": 9,
+        "name": "three musketeers"
+    },
+    {   
+        "cost": 3,
+        "name": "tombstone"
+    },
+    {   
+        "cost": 4,
+        "name": "valkyrie"
+    },
+    {   
+        "cost": 5,
+        "name": "wizard"
+    },
+    {   
+        "cost": 4,
+        "name": "baby dragon"
+    },
+    {   
+        "cost": 5,
+        "name": "balloon"
+    },
+    {   
+        "cost": 5,
+        "name": "bowler"
+    },
+    {   
+        "cost": 4,
+        "name": "dark prince"
+    },
+    {   
+        "cost": 4,
+        "name": "freeze"
+    },
+    {   
+        "cost": 6,
+        "name": "giant skeleton"
+    },
+    {   
+        "cost": 3,
+        "name": "goblin barrel"
+    },
+    {   
+        "cost": 8,
+        "name": "golem"
+    },
+    {   
+        "cost": 3,
+        "name": "guards"
+    },
+    {   
+        "cost": 6,
+        "name": "lightning"
+    },
+    {   
+        "cost": null,
+        "name": "mirror"
+    },
+    {   
+        "cost": 7,
+        "name": "p.e.k.k.a."
+    },
+    {   
+        "cost": 4,
+        "name": "poison"
+    },
+    {   
+        "cost": 5,
+        "name": "prince"
+    },
+    {   
+        "cost": 2,
+        "name": "rage"
+    },
+    {   
+        "cost": 3,
+        "name": "skeleton army"
+    },
+    {   
+        "cost": 3,
+        "name": "tornado"
+    },
+    {   
+        "cost": 5,
+        "name": "witch"
+    },
+    {   
+        "cost": 6,
+        "name": "x bow"
+    },
+    {   
+        "cost": 5,
+        "name": "graveyard"
+    },
+    {   
+        "cost": 3,
+        "name": "ice wizard"
+    },
+    {   
+        "cost": 4,
+        "name": "inferno dragon"
+    },
+    {   
+        "cost": 7,
+        "name": "lava hound"
+    },
+    {   
+        "cost": 4,
+        "name": "lumberjack"
+    },
+    {   
+        "cost": 3,
+        "name": "miner"
+    },
+    {   
+        "cost": 3,
+        "name": "princess"
+    },
+    {   
+        "cost": 6,
+        "name": "sparky"
+    },
+    {   
+        "cost": 2,
+        "name": "the log"
+    }
+]
